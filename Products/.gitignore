@@ -1,0 +1,29 @@
+﻿
+# ASP.NET Core
+bin/
+obj/
+
+# .NET Core
+*.dll
+*.pdb
+*.user
+*.vscode/
+*.vs/
+
+# Visual Studio files
+*.suo
+*.cache
+*.sln.docstates
+*.userprefs
+
+# Rider files
+.idea/
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
