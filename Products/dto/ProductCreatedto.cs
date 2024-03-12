@@ -16,7 +16,6 @@ namespace ProductNamespace.DTOs
 
         public IFormFile Image1 { get; set; }
 
-        // Assuming Image2 will be provided as base64 string
         public string Image2Base64 { get; set; }
     }
 }

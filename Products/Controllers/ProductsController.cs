@@ -147,7 +147,6 @@ namespace ProjectNamespace.Controllers
             }
             catch (Exception ex)
             {
-                // Log the exception
                 throw new Exception("Failed to save image.", ex);
             }
         }
@@ -164,7 +163,6 @@ namespace ProjectNamespace.Controllers
             }
             catch (Exception ex)
             {
-                // Log the exception
                 throw new Exception("Failed to save base64 image.", ex);
             }
         }

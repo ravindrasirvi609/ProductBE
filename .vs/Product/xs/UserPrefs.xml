@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{ACD9921C-4711-48D2-8EDF-56634F961601}|https">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{ACD9921C-4711-48D2-8EDF-56634F961601}|https">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Products PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>
